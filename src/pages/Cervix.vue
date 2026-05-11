@@ -25,10 +25,10 @@
 							</div>
 						</form>
 
-						<ul class="list-group" id="countries_list">
+						<ul class="list-group" id="countries_list" :style="{maxHeight: height+'px'}">
 							<li class="list-group-item" v-for="population in filters.populations_ordered">
 								<a href="javascript:void(0)" class="country_button" v-on:mouseover="selectCountry(population.label)"  v-on:mouseout="deselectCountry()">
-									<img :src="'../img/flags/'+population.iso+'.svg'">
+									<img :src="'../img/flags/'+population.iso.toLowerCase()+'.svg'">
 									{{ population.label }}	
 								</a>
 							</li>
@@ -80,7 +80,7 @@
 					<div id="graphic"></div>
 
 					<div class="source">
-						<strong><u>Source</u></strong> : GCO, the Globocan Cancer Observatory / Cancer Today - Globocan 2018
+						<strong><u>Source</u></strong> : GCO, the Globocan Cancer Observatory / Cancer Today - Globocan 2022
 					</div>
 
 				</div>
@@ -109,7 +109,7 @@ export default {
 		onMounted(() => {
 
 			let scripts = [
-	      '/js/d3@7.js'
+	      '../js/d3@7.js'
 	    ] 
 
 	    var tag_script 
@@ -186,7 +186,7 @@ export default {
 		setTimeout(()=>{
 
 			this.width = $('#graphic').width() ; 
-			this.height = ( $(window).height() < 600 ) ? $(window).height() - 80 : 600 ; 
+			this.height = ( $(window).height() < 900 ) ? $(window).height() - 80 : 900 ; 
 			
 			// console.info("this.height",$(window).height(),this.height) ; 
 
@@ -229,7 +229,7 @@ export default {
 			this.chartState.scale 	= this.scales.lin ;
 			this.chartState.legend 	= this.legend.total ;
 
-			let promise = axios.get( "../data/dataset.json" ) ; 
+			let promise = axios.get( "../data/ASMR_Cervix.json" ) ; 
 
 			axios.all( [promise] )
 				.then( axios.spread(( dataset_promise ) => {
@@ -693,6 +693,7 @@ h1{
 }
 
 #countries_list{
+	overflow-y: auto;
 	.list-group-item{
 		&:hover{
 			background: #f0f0f0 ; 

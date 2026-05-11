@@ -1,0 +1,611 @@
+[
+  {
+    "country_iso2": "NO",
+    "country": "Norway",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "9.720246"
+  },
+  {
+    "country_iso2": "NO",
+    "country": "Norway",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "4.641236"
+  },
+  {
+    "country_iso2": "NO",
+    "country": "Norway",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "2.736274"
+  },
+  {
+    "country_iso2": "DK",
+    "country": "Denmark",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "7.002017"
+  },
+  {
+    "country_iso2": "DK",
+    "country": "Denmark",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "4.278523"
+  },
+  {
+    "country_iso2": "DK",
+    "country": "Denmark",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "3.272853"
+  },
+  {
+    "country_iso2": "IE",
+    "country": "Ireland",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "11.437874"
+  },
+  {
+    "country_iso2": "IE",
+    "country": "Ireland",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "6.187099"
+  },
+  {
+    "country_iso2": "IE",
+    "country": "Ireland",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "4.038895"
+  },
+  {
+    "country_iso2": "SE",
+    "country": "Sweden",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "6.306967"
+  },
+  {
+    "country_iso2": "SE",
+    "country": "Sweden",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "4.259053"
+  },
+  {
+    "country_iso2": "SE",
+    "country": "Sweden",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "3.020261"
+  },
+  {
+    "country_iso2": "FI",
+    "country": "Finland",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "5.577814"
+  },
+  {
+    "country_iso2": "FI",
+    "country": "Finland",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "2.90941"
+  },
+  {
+    "country_iso2": "FI",
+    "country": "Finland",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "1.953557"
+  },
+  {
+    "country_iso2": "IS",
+    "country": "Iceland",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "8.865472"
+  },
+  {
+    "country_iso2": "IS",
+    "country": "Iceland",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "4.795608"
+  },
+  {
+    "country_iso2": "IS",
+    "country": "Iceland",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "3.130539"
+  },
+  {
+    "country_iso2": "FR",
+    "country": "France",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "4.722155"
+  },
+  {
+    "country_iso2": "FR",
+    "country": "France",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "3.606009"
+  },
+  {
+    "country_iso2": "FR",
+    "country": "France",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "1.974719"
+  },
+  {
+    "country_iso2": "DE",
+    "country": "Germany",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "7.322488"
+  },
+  {
+    "country_iso2": "DE",
+    "country": "Germany",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "5.090616"
+  },
+  {
+    "country_iso2": "DE",
+    "country": "Germany",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "4.309612"
+  },
+  {
+    "country_iso2": "AT",
+    "country": "Austria",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "5.892065"
+  },
+  {
+    "country_iso2": "AT",
+    "country": "Austria",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "4.664108"
+  },
+  {
+    "country_iso2": "AT",
+    "country": "Austria",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "3.758249"
+  },
+  {
+    "country_iso2": "BE",
+    "country": "Belgium",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "5.810314"
+  },
+  {
+    "country_iso2": "BE",
+    "country": "Belgium",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "3.874479"
+  },
+  {
+    "country_iso2": "BE",
+    "country": "Belgium",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "2.890098"
+  },
+  {
+    "country_iso2": "NL",
+    "country": "Netherlands",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "4.526955"
+  },
+  {
+    "country_iso2": "NL",
+    "country": "Netherlands",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "3.147153"
+  },
+  {
+    "country_iso2": "NL",
+    "country": "Netherlands",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "2.664315"
+  },
+  {
+    "country_iso2": "LU",
+    "country": "Luxembourg",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "3.893968"
+  },
+  {
+    "country_iso2": "LU",
+    "country": "Luxembourg",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "2.707098"
+  },
+  {
+    "country_iso2": "LU",
+    "country": "Luxembourg",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "2.291774"
+  },
+  {
+    "country_iso2": "CY",
+    "country": "Cyprus",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "6.368942"
+  },
+  {
+    "country_iso2": "CY",
+    "country": "Cyprus",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "4.427708"
+  },
+  {
+    "country_iso2": "CY",
+    "country": "Cyprus",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "3.748407"
+  },
+  {
+    "country_iso2": "PT",
+    "country": "Portugal",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "5.850904"
+  },
+  {
+    "country_iso2": "PT",
+    "country": "Portugal",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "4.067566"
+  },
+  {
+    "country_iso2": "PT",
+    "country": "Portugal",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "3.443518"
+  },
+  {
+    "country_iso2": "ES",
+    "country": "Spain",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "5.114318"
+  },
+  {
+    "country_iso2": "ES",
+    "country": "Spain",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "2.652892"
+  },
+  {
+    "country_iso2": "ES",
+    "country": "Spain",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "2.759114"
+  },
+  {
+    "country_iso2": "GR",
+    "country": "Greece",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "4.753304"
+  },
+  {
+    "country_iso2": "GR",
+    "country": "Greece",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "3.304511"
+  },
+  {
+    "country_iso2": "GR",
+    "country": "Greece",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "2.797532"
+  },
+  {
+    "country_iso2": "IT",
+    "country": "Italy",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "2.328062"
+  },
+  {
+    "country_iso2": "IT",
+    "country": "Italy",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "2.016084"
+  },
+  {
+    "country_iso2": "IT",
+    "country": "Italy",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "1.706006"
+  },
+  {
+    "country_iso2": "MT",
+    "country": "Malta",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "4.652178"
+  },
+  {
+    "country_iso2": "MT",
+    "country": "Malta",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "3.234208"
+  },
+  {
+    "country_iso2": "MT",
+    "country": "Malta",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "2.738015"
+  },
+  {
+    "country_iso2": "CZ",
+    "country": "Czechia",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "13.343054"
+  },
+  {
+    "country_iso2": "CZ",
+    "country": "Czechia",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "9.47731"
+  },
+  {
+    "country_iso2": "CZ",
+    "country": "Czechia",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "4.613954"
+  },
+  {
+    "country_iso2": "HU",
+    "country": "Hungary",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "20.320719"
+  },
+  {
+    "country_iso2": "HU",
+    "country": "Hungary",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "10.634706"
+  },
+  {
+    "country_iso2": "HU",
+    "country": "Hungary",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "8.453357"
+  },
+  {
+    "country_iso2": "BG",
+    "country": "Bulgaria",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "29.519687"
+  },
+  {
+    "country_iso2": "BG",
+    "country": "Bulgaria",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "13.229176"
+  },
+  {
+    "country_iso2": "BG",
+    "country": "Bulgaria",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "6.591815"
+  },
+  {
+    "country_iso2": "HR",
+    "country": "Croatia",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "13.993247"
+  },
+  {
+    "country_iso2": "HR",
+    "country": "Croatia",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "6.271039"
+  },
+  {
+    "country_iso2": "HR",
+    "country": "Croatia",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "3.124725"
+  },
+  {
+    "country_iso2": "LV",
+    "country": "Latvia",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "40.252367"
+  },
+  {
+    "country_iso2": "LV",
+    "country": "Latvia",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "18.039"
+  },
+  {
+    "country_iso2": "LV",
+    "country": "Latvia",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "8.988448"
+  },
+  {
+    "country_iso2": "LT",
+    "country": "Lithuania",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "53.961875"
+  },
+  {
+    "country_iso2": "LT",
+    "country": "Lithuania",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "22.17824"
+  },
+  {
+    "country_iso2": "LT",
+    "country": "Lithuania",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "8.919442"
+  },
+  {
+    "country_iso2": "EE",
+    "country": "Estonia",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "32.371053"
+  },
+  {
+    "country_iso2": "EE",
+    "country": "Estonia",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "14.792902"
+  },
+  {
+    "country_iso2": "EE",
+    "country": "Estonia",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "6.49901"
+  },
+  {
+    "country_iso2": "PL",
+    "country": "Poland",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "21.89494"
+  },
+  {
+    "country_iso2": "PL",
+    "country": "Poland",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "13.088036"
+  },
+  {
+    "country_iso2": "PL",
+    "country": "Poland",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "7.583722"
+  },
+  {
+    "country_iso2": "SI",
+    "country": "Slovenia",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "6.300653"
+  },
+  {
+    "country_iso2": "SI",
+    "country": "Slovenia",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "6.062892"
+  },
+  {
+    "country_iso2": "SI",
+    "country": "Slovenia",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "4.398569"
+  },
+  {
+    "country_iso2": "RO",
+    "country": "Romania",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "42.99853"
+  },
+  {
+    "country_iso2": "RO",
+    "country": "Romania",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "19.269687"
+  },
+  {
+    "country_iso2": "RO",
+    "country": "Romania",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "9.601673"
+  },
+  {
+    "country_iso2": "SK",
+    "country": "Slovakia",
+    "midyear": 2017,
+    "edu_3cat": "Lower",
+    "asmr": "17.26516"
+  },
+  {
+    "country_iso2": "SK",
+    "country": "Slovakia",
+    "midyear": 2017,
+    "edu_3cat": "Intermediate",
+    "asmr": "13.5835"
+  },
+  {
+    "country_iso2": "SK",
+    "country": "Slovakia",
+    "midyear": 2017,
+    "edu_3cat": "Higher",
+    "asmr": "8.042986"
+  }
+]
